@@ -1,16 +1,20 @@
 # api_demo
 
-A new Flutter project.
+A basic demo app to understand how api calls work (Event hosted by GDSC CVRGU). Demonstrates how to make api calls using the http package in Flutter.
+Feel free to experiment around the widgets in the app.
+Happy Coding😇
 
-## Getting Started
+## Getting Started  
+#### PreRequisites : Flutter SDK installed on your PC/Laptop.
 
-This project is a starting point for a Flutter application.
+Clone the repository to locally set up on your device using the link below:
 
-A few resources to get you started if this is your first Flutter project:
+[Clone Link](https://github.com/NishantM-7/api_demo.git)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Reference for how to set up a git repository:
+[( How to clone and set up)](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Explore the http package documentation to learn how to make other api calls and how to handle them:
+[http package documentation](https://pub.dev/packages/http)
+
+For more information on Flutter explore the official Flutter documentation: [Flutter Docs](https://docs.flutter.dev/)
